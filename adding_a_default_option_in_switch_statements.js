@@ -9,10 +9,10 @@ function switchOfStuff(val) {
     case "b": 
         answer = "bird";
         break;
-	case "c":
+  	case "c":
         answer = "cat";
         break;
-      default:
+    default:
         answer = "stuff";
         break;
   }
